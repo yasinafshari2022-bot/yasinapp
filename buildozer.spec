@@ -4,6 +4,9 @@
 # See the end of the file for more details and warnings about common mistakes.
 
 [app]
+android.accept_sdk_license = True
+android.api = 33
+android.build_tools_version = 33.0.2
 
 # (str) Title of your application
 title = Yasin App
